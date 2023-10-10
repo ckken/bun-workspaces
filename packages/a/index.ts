@@ -1,1 +1,2 @@
-console.log("Hello via Bun!");
+const str = 'packcages from a'
+export default str
